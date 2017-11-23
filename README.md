@@ -1,2 +1,2 @@
 # httppost
-Cmd Line to make HTTP Post
+Command-line utility to make posts. Compatible with Java 5.
